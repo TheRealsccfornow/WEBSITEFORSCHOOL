@@ -1,6 +1,7 @@
-.button {
+.Button {
     position: absolute;
     left: 1000px;
+    text-size: 14px;
 }
 body{
     background-color: #B6F2E2;
