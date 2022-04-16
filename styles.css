@@ -1,3 +1,7 @@
+.button {
+    position: absolute;
+    left: 1000px;
+}
 body{
     background-color: #B6F2E2;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
