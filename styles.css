@@ -2,6 +2,10 @@ body{
     background-color: #B6F2E2;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.dividenpre{
+    text-align: center;
+    font-size: 30px;
+}
 .dividen1{
     background-color: #8AF2E2;
     width: 60%;
