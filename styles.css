@@ -4,9 +4,13 @@ body{
 }
 .dividen1{
     background-color: #8AF2E2;
+    width: 60%;
+    overflow: auto;
 }
 .dividen2{
     background-color: #8AF2E2;
+    width: 60%;
+    overflow: auto;
 }
 .dividen3{
     border: 3px dashed #079CF9;
