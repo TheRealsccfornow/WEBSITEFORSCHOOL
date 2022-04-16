@@ -15,4 +15,10 @@ body{
 .dividen3{
     border: 3px dashed #079CF9;
     padding: 15px;
+    background-color: #07C1DB;
+}
+.dividen4{
+    border: 3px solid #07F94C;
+    padding 5px;
+    background-color: #07DB7F;
 }
